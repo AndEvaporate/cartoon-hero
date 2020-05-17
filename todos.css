@@ -1,0 +1,15 @@
+li	{
+	border: 2px solid red;
+}
+
+#special {
+	background: yellow;
+}
+
+/*#turncoat {
+	background: blue;
+}*/
+
+.completed {
+	text-decoration: line-through;
+}

@@ -1,0 +1,21 @@
+body {
+	margin-top: 10% solid gray;
+	margin-bottom: 20% solid gray;
+	margin-left: 20% solid gray;
+	margin-right: 20% solid gray;
+}
+
+p {
+	margin-top: 10% solid gray;
+	margin-bottom: 20% solid gray;
+	margin-left: 20% solid gray;
+	margin-right: 20% solid gray;
+}
+
+p {
+	font: color red;
+}
+
+h1 {
+	font: color red;
+}

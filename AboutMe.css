@@ -1,0 +1,31 @@
+
+h1 {
+	color: #F98760
+	/*border-color: red;
+	border-width: 10px;
+	border-style: solid;*/
+
+	border: solid purple;
+	border-width: 10px
+
+}
+
+
+/*h1	{
+	color: rgba(14,99,150,0.2);	
+}*/
+
+/* h1	{
+	color: rgb(240,99,0);
+}*/
+
+h4 {
+	background: rgba(150,45,96);
+}
+
+body {
+	background: yellow;
+}
+	/*background: url(https://i.ytimg.com/vi/UC3gYLo4VXw/maxresdefault.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
